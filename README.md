@@ -1,4 +1,4 @@
 # Clustering
 
 
-What kind of stocks changes similar percentage wise in a group
+Clustering model for opening a gymnasium in chicago
